@@ -7,6 +7,9 @@ Learn-to-Earn is a decentralized streaming platform where users can access study
 ## Contract Address.
 *Contract Address*: 0xf8e81D47203A594245E36C48e151709F0C19fBe8
 
+![image](https://github.com/user-attachments/assets/0421e5e0-e61b-4906-871c-61f8d4403f34)
+
+
 ## Project Vision.
 The vision of Learn-to-Earn is to democratize education by leveraging blockchain technology. By fractionalizing educational resources like study guides, we enable a more affordable, transparent, and engaging way to learn. The platform also incentivizes users to contribute and learn by rewarding them based on their engagement and ownership.
 
